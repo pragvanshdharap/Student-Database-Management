@@ -1,0 +1,15 @@
+Roll Number-1
+Name of student-archit
+Gender-M
+Phone number-1234567890
+
+Roll Number-24
+Name of student-pragvansh dharap
+Gender-M
+Phone number-1234567890
+
+Roll Number-34
+Name of student-ankit
+Gender-M
+Phone number-1234567890
+
